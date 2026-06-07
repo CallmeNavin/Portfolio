@@ -54,6 +54,18 @@ Business Learning: Framing trade-off between stability and quality performance
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
+### ⚙️ Machine Capacity Optimization
+
+Problem: Evaluate factors affecting machine capacity and identify practical operating conditions that could improve throughput in a complex environment where performance depends on multiple upstream and operational variables
+
+Tools: SQL · Python · Excel
+
+Approach: Analyzed historical operational data to evaluate relationships between capacity, machine parameters and upstream conditions. Validated data quality issues, tested multiple operating scenarios, identified operating windows associated with stronger historical performance
+
+Outcome: Identified factors affecting machine capacity & a set of machine parameters consistently associated with higher capacity
+
+Business Learning: In real factory environments, the hardest challenge is determining which findings are actionable, robust and realistic enough to support decision-making. Capacity optimization requires balancing from process control, upstream variability, data limitations to practical operating constraints
+
 ### 🧪 Ingredient Substitution Performance Trade-off
 
 Problem: Evaluate substitute ingredient impact
