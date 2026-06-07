@@ -42,8 +42,6 @@ Business Learning: How can we identify practical operating guidance for achievin
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
 
----
-
 ### 💎 Premium Product Optimization
 
 Problem: Improve premium quality under capacity constraints
@@ -56,8 +54,6 @@ Business Learning: Framing trade-off between stability and quality performance
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
 
----
-
 ### 🧪 Ingredient Substitution Performance Trade-off
 
 Problem: Evaluate substitute ingredient impact
@@ -69,8 +65,6 @@ Outcome: Cost saving vs operational constraint
 Business Learning: Identify whether savings remain real after the system absorbs the trade-off
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-3_Manufacturing-Ingredient-Substitution-Performance-Tradeoff)
-
----
 
 ### 🌡 Climate Control Performance
 
@@ -111,6 +105,8 @@ Outcome: Site decision framework + ROI prediction
 Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
+
+---
 
 ## About Me
 
