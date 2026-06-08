@@ -56,15 +56,15 @@ Business Learning: Framing trade-off between stability and quality performance
 
 ### ⚙️ Machine Capacity Optimization
 
-Problem: Evaluate factors affecting machine capacity and identify practical operating conditions that could improve throughput in a complex environment where performance depends on multiple upstream and operational variables
+Problem: Production teams needed a realistic machine capacity to set KPI, but machine performance was influenced by multiple parameters, upstream factors and data quality limitations. Existing assumptions were not always aligned across stakeholders
 
-Tools: SQL · Python · Excel
+Tools: SQL · Python · Excel · Powerpoint
 
-Approach: Analyzed historical operational data to evaluate relationships between capacity, machine parameters and upstream conditions. Validated data quality issues, tested multiple operating scenarios, identified operating windows associated with stronger historical performance
+Approach: Analyzed historical operational and production data to evaluate the relationship between machine capacity, operating parameters and upstream factors. Investigated data quality issues, validated assumptions with production stakeholders, compared operating scenarios and assessed practical constraints affecting real-world performance
 
-Outcome: Identified factors affecting machine capacity & a set of machine parameters consistently associated with higher capacity
+Outcome: Developed a capacity benchmarking framework and recommended a 3-level KPI structure (Minimum, Target and Stretch). Identified operating conditions historically associated with stronger performance and highlighted key constraints limiting capacity achievement
 
-Business Learning: In real factory environments, the hardest challenge is determining which findings are actionable, robust and realistic enough to support decision-making. Capacity optimization requires balancing from process control, upstream variability, data limitations to practical operating constraints
+Business Learning: In real manufacturing environment, actionable recommendations require balancing data evidence, data quality, process variability, stakeholder feedback & other constraints before defining performance targets.
 
 ### 🧪 Ingredient Substitution Performance Trade-off
 
