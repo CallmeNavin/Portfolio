@@ -118,7 +118,7 @@ Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
 
-💰 Break-even Revenue Simulator
+### 💰 Break-even Revenue Simulator
 
 Problem: Business owners and analysts often struggle to understand how much revenue is required to cover fixed costs and achieve profitability
 
