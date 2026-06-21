@@ -118,6 +118,20 @@ Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
 
+💰 Break-even Revenue Simulator
+
+Problem: Business owners and analysts often struggle to understand how much revenue is required to cover fixed costs and achieve profitability
+
+Tools: Python · Streamlit
+
+Outcome: Developed an interactive web application that calculates contribution, contribution margin, break-even revenue, profit and margin of safety based on user inputs
+
+Business Learning: Profitability is driven not only by revenue growth, but also by the relationship between contribution margin and fixed cost structure
+
+→ [Live App](https://p29break-even-profit-simulatorgit-ll6ybsmfmjaumdwynkahbx.streamlit.app/)
+
+→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
+
 ---
 
 ## About Me
