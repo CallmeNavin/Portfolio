@@ -126,8 +126,6 @@ Tools: Python · Streamlit
 
 Outcome: Developed an interactive web application that calculates contribution, contribution margin, break-even revenue, profit and margin of safety based on user inputs
 
-Business Learning: Profitability is driven not only by revenue growth, but also by the relationship between contribution margin and fixed cost structure
-
 → [Live App](https://p29break-even-profit-simulatorgit-ll6ybsmfmjaumdwynkahbx.streamlit.app/)
 
 → [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
