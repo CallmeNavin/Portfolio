@@ -126,7 +126,7 @@ Tools: Python · Streamlit
 
 Outcome: Developed an interactive web application that calculates contribution, contribution margin, break-even revenue, profit and margin of safety based on user inputs
 
-→ [Live App](break-even-revenue-simulator.streamlit.app)
+→ [Live App](https://break-even-revenue-simulator.streamlit.app/)
 
 → [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
 
