@@ -102,6 +102,18 @@ Business Learning: In operational systems, environmental stabilization systems d
 
 ## 2. Selected Learning Projects
 
+### 💰 Break-even Revenue Simulator
+
+Problem: Business owners and analysts often struggle to understand how much revenue is required to cover fixed costs and achieve profitability
+
+Tools: Python · Streamlit
+
+Outcome: Developed an interactive web application that calculates contribution, contribution margin, break-even revenue, profit and margin of safety based on user inputs
+
+→ [Live App](https://break-even-revenue-simulator.streamlit.app/)
+
+→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
+
 ### 🔄 Customer Retention Decision Analytics
 
 Problem: Reduce churn while balancing retention cost
@@ -125,18 +137,6 @@ Outcome: Site decision framework + ROI prediction
 Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
-
-### 💰 Break-even Revenue Simulator
-
-Problem: Business owners and analysts often struggle to understand how much revenue is required to cover fixed costs and achieve profitability
-
-Tools: Python · Streamlit
-
-Outcome: Developed an interactive web application that calculates contribution, contribution margin, break-even revenue, profit and margin of safety based on user inputs
-
-→ [Live App](https://break-even-revenue-simulator.streamlit.app/)
-
-→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
 
 ---
 
