@@ -2,7 +2,9 @@
 
 # Operations-Embedded Data Analyst Portfolio
 
-Embedded in Operations | Powered by Data | From messy operations to scalable decision systems
+**Embedded in Operations | Powered by Data**
+
+From messy operations to scalable decision systems
 ---
 
 ## 1. Featured Industrial Case Studies
