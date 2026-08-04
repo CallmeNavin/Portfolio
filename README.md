@@ -17,7 +17,7 @@ Outcome: Supported ongoing target adjustments by monitoring operational data, hi
 
 Business Learning: In complex operating environments, decisions often need to be updated continuously despite incomplete, delayed, and imperfect information.
 
-### ⚙️ Operational Implementation Governance & Approval System
+### 🧭 Operational Implementation Governance & Approval System
 
 Problem: Operational targets setpoint were already monitored, adjusted and communicated through centralized dashboards (previous case). However, the decision process still relied heavily on the Data Analyst independently identifying issues, analyzing performance and initiating changes. A standardized governance process was needed to enable cross-functional stakeholders to initiate change requests while ensuring analytical validation, management approval, implementation control, traceability and post-implementation evaluation
 
