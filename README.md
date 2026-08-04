@@ -1,11 +1,9 @@
 # W. NAVIN
 
-# Industrial Analytics Portfolio
+# Operations-Embedded Data Analyst Portfolio
 
-Industrial Analytics | Decision Support | Operational Intelligence
-
-Translate messy operations into actionable decisions.
-
+Embedded in Operations | Powered by Data
+From messy operations to scalable decision systems
 ---
 
 ## 1. Featured Industrial Case Studies
@@ -14,21 +12,21 @@ Translate messy operations into actionable decisions.
 
 Problem: Define and adjust operational targets in a highly variable environment where performance is influenced by external conditions, forecast uncertainty, process/machine constraints, and imperfect measurements, operational data
 
-Tools: SQL · Excel · Power BI
+Tools: SQL · Excel · Power BI · Grafana
 
 Outcome: Supported ongoing target adjustments by monitoring operational data, historical performance and forecast information. Developed a centralized application to communicate current targets, track actual operating conditions, and improve visibility across factory departments
 
 Business Learning: In complex operating environments, decisions often need to be updated continuously despite incomplete, delayed, and imperfect information.
 
-### 📊 Daily Factory Reporting & Decision Support System
+### ⚙️ Operational Implementation Governance & Approval System
 
-Problem: Daily operational reviews relied on fragmented Excel files, manual data preparation, and complex workflows that required 30–60 minutes for factory departments of preparation each morning
+Problem: Operational targets setpoint were already monitored, adjusted and communicated through centralized dashboards (previous case). However, the decision process still relied heavily on the Data Analyst independently identifying issues, analyzing performance and initiating changes. A standardized governance process was needed to enable cross-functional stakeholders to initiate change requests while ensuring analytical validation, management approval, implementation control, traceability and post-implementation evaluation
 
-Tools: Excel · Python · Windows Task Scheduler · Power BI
+Tools: Microsoft Lists · Power Automate · Process Design
 
-Outcome: Streamlined daily reporting preparation by combining manual data collection with automated validation and transformation workflows, reducing preparation time from up to an hour to only a few minutes
+Outcome: Designed and implemented an end-to-end digital governance workflow covering request submission, preliminary screening, analytical review, management approval, controlled implementation, automated notifications, audit traceability and scheduled post-implementation evaluation. Transformed an analyst-dependent decision activity into a structured, scalable and traceable operational process
 
-Business Learning: Operational reporting creates the most value when teams spend less time preparing data and more time discussing decisions.
+Business Learning: Operational decisions become scalable only when analytical judgment is supported by clear governance, ownership, approval accountability, traceability and continuous feedback
 
 ### 🏭 Manufacturing Drying Process Decision Support
 
@@ -41,6 +39,16 @@ Outcome: Operational guidance under imperfect data
 Business Learning: How can we identify practical operating guidance for achieving special drying when the output condition is not directly measurable from process sensors?
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-1_Manufacturing-Drying-Process-Analysis)
+
+### 📊 Daily Factory Reporting & Decision Support System
+
+Problem: Daily operational reviews relied on fragmented Excel files, manual data preparation, and complex workflows that required 30–60 minutes for factory departments of preparation each morning
+
+Tools: Excel · Python · Windows Task Scheduler · Power BI
+
+Outcome: Streamlined daily reporting preparation by combining manual data collection with automated validation and transformation workflows, reducing preparation time from up to an hour to only a few minutes
+
+Business Learning: Operational reporting creates the most value when teams spend less time preparing data and more time discussing decisions.
 
 ### 💎 Premium Product Optimization
 
