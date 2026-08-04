@@ -2,8 +2,7 @@
 
 # Operations-Embedded Data Analyst Portfolio
 
-**Embedded in Operations | Powered by Data**
-From messy operations to scalable decision systems
+Embedded in Operations | Powered by Data
 ---
 
 ## 1. Featured Industrial Case Studies
@@ -27,6 +26,19 @@ Tools: Microsoft Lists · Power Automate · Process Design
 Outcome: Designed and implemented an end-to-end digital governance workflow covering request submission, preliminary screening, analytical review, management approval, controlled implementation, automated notifications, audit traceability and scheduled post-implementation evaluation. Transformed an analyst-dependent decision activity into a structured, scalable and traceable operational process
 
 Business Learning: Operational decisions become scalable only when analytical judgment is supported by clear governance, ownership, approval accountability, traceability and continuous feedback
+
+
+### ⚙️ Machine Capacity Optimization
+
+Problem: Production teams needed a realistic machine capacity to set KPI, but machine performance was influenced by multiple parameters, upstream factors and data quality limitations. Existing assumptions were not always aligned across stakeholders
+
+Tools: SQL · Python · Excel · Powerpoint
+
+Approach: Analyzed historical operational and production data to evaluate the relationship between machine capacity, operating parameters and upstream factors. Investigated data quality issues, validated assumptions with production stakeholders, compared operating scenarios and assessed practical constraints affecting real-world performance
+
+Outcome: Developed a capacity benchmarking framework and recommended a 3-level KPI structure (Minimum, Target and Stretch). Identified operating conditions historically associated with stronger performance and highlighted key constraints limiting capacity achievement
+
+Business Learning: In real manufacturing environment, actionable recommendations require balancing data evidence, data quality, process variability, stakeholder feedback & other constraints before defining performance targets.
 
 ### 🏭 Manufacturing Drying Process Decision Support
 
@@ -61,18 +73,6 @@ Outcome: Quality–stability trade-off framework
 Business Learning: Framing trade-off between stability and quality performance
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-2_Manufacturing-Premium-Products-Optimization)
-
-### ⚙️ Machine Capacity Optimization
-
-Problem: Production teams needed a realistic machine capacity to set KPI, but machine performance was influenced by multiple parameters, upstream factors and data quality limitations. Existing assumptions were not always aligned across stakeholders
-
-Tools: SQL · Python · Excel · Powerpoint
-
-Approach: Analyzed historical operational and production data to evaluate the relationship between machine capacity, operating parameters and upstream factors. Investigated data quality issues, validated assumptions with production stakeholders, compared operating scenarios and assessed practical constraints affecting real-world performance
-
-Outcome: Developed a capacity benchmarking framework and recommended a 3-level KPI structure (Minimum, Target and Stretch). Identified operating conditions historically associated with stronger performance and highlighted key constraints limiting capacity achievement
-
-Business Learning: In real manufacturing environment, actionable recommendations require balancing data evidence, data quality, process variability, stakeholder feedback & other constraints before defining performance targets.
 
 ### 🧪 Ingredient Substitution Performance Trade-off
 
