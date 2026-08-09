@@ -112,7 +112,21 @@ Outcome: Developed an interactive web application that calculates contribution, 
 
 → [Live App](https://break-even-revenue-simulator.streamlit.app/)
 
-→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator)
+→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator) 
+
+### 🏗 Self-Hosted Analytics Platform
+
+Problem: Build a self-hosted analytics platform from the ground up
+
+Tools: Docker · Docker Compose · WSL2 · PostgreSQL (Neon) · dbt · Metabase · Grafana
+
+Approach: Built the platform incrementally from a local environment, using my own machine as the initial infrastructure, containerizing analytics applications with Docker, configuring persistent storage and connecting them to a cloud-hosted PostgreSQL analytics database
+
+Outcome: Established the first working layer of a modular self-hosted analytics platform, starting with Metabase and designed to expand with Grafana, Apache Superset, cloud deployment and multi-user access
+
+Business Learning: Developed understanding of the separation between software and the infrastructure, how organizations host systems, started applying these concepts incrementally by using my own machine as the initial host and designing the platform to progressively evolve
+
+→ [Explore](https://github.com/CallmeNavin/P29_Break-even-Profit-Simulator) 
 
 ### 🔄 Customer Retention Decision Analytics
 
