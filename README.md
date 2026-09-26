@@ -152,6 +152,20 @@ Business Learning: Higher profit does not always mean higher capital efficiency
 
 → [Explore](https://github.com/CallmeNavin/P6_Retail-Expansion-Decision-Analytics)
 
+### 🔐 My Authenticator
+
+Problem: Explore how time based 2-factor authentication works by building an independent desktop authenticator
+
+Tools: Python · PyOTP · Tkinter · Git
+
+Approach: Implemented TOTP generation and verification, built a desktop interface with a live countdown timer, added one-click OTP copying
+
+Outcome: Developed a working desktop application that generates time-based OTPs and validates them through a simulated authentication server
+
+Business Learning: Understanding of time-based authentication
+
+→ [Explore](https://github.com/CallmeNavin/my_authenticator)
+
 ---
 
 ## About Me
