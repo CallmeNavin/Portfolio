@@ -13,7 +13,9 @@ Problem: Define and adjust operational targets in a highly variable environment 
 
 Tools: SQL · Excel · Power BI · Grafana
 
-Outcome: Supported ongoing target adjustments by monitoring operational data, historical performance and forecast information. Developed a centralized application to communicate current targets, track actual operating conditions, and improve visibility across factory departments
+Outcome: 
+- Supported ongoing target adjustments by monitoring operational data, historical performance and forecast information. Developed a centralized application to communicate current targets, track actual operating conditions, and improve visibility across factory departments
+- Developed supporting SOP documentation and operational control procedures to standardize target implementation, monitor compliance
 
 Business Learning: In complex operating environments, decisions often need to be updated continuously despite incomplete, delayed, and imperfect information.
 
@@ -98,6 +100,16 @@ Business Learning: In operational systems, environmental stabilization systems d
 
 → [Explore](https://github.com/CallmeNavin/Real-Project-4_Climate-Control-Operational-Performance-Analysis)
 
+### 📚 Operational Knowledge Management & Continuity
+
+Problem: Critical operational knowledge was fragmented across multiple systems, documents, individuals, creating challenges for employee onboarding and knowledge transfer
+
+Tools: PowerPoint · Process Documentation · Knowledge Management
+
+Outcome: Developed a knowledge-transfer guide covering operational workflows, system access, key stakeholders, reporting procedures, known limitations, improvement opportunities
+
+Business Learning: Operational continuity requires knowledge to be documented, structured, and transferable
+
 ---
 
 ## 2. Selected Learning Projects
@@ -172,7 +184,7 @@ Business Learning: Understanding of time-based authentication
 
 I work at the intersection of data, manufacturing and decision-making. My focus is not building perfect models, but is reducing uncertainty enough for teams to act.
 
-📄 Resume → [Explore](https://drive.google.com/file/d/19EogyV6f1CVCljTiq7Inbqm1tMvFqas1/view?usp=drivesdk)
+📄 Resume → [Explore](https://drive.google.com/file/d/14Nu-e2i8vxXExI1DZvUy9IJ7pUwT-8t0/view?usp=sharing)
 
 💼 LinkedIn → [Explore](https://www.linkedin.com/in/navin826/)
 
